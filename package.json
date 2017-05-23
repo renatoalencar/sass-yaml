@@ -13,5 +13,9 @@
     "scss"
   ],
   "author": "Renato Alencar",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.5.3",
+    "yamljs": "^0.2.10"
+  }
 }
